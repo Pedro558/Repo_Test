@@ -3,3 +3,11 @@
 	text-align: center;
 	text-transform: uppercase;
 }
+h1 p{
+	color: red;
+}
+p{
+	font-size: 30px;
+	text-align: center;
+	color: green;
+}
