@@ -11,8 +11,23 @@ p{
 	text-align: center;
 	color: green;
 }
+input{
+	width: 100%;
+	height: 30px;
+	border-radius: 2px;
+}
 .quadrado{
 	width: 400px;
 	margin: 0 auto;
 	border:1px solid blue;
+}
+#formulario{
+	border:1px solid red;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+}
+#caixa-form{
+	width: 400px;
+	margin: 0 auto;
 }
