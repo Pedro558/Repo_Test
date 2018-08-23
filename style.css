@@ -21,10 +21,8 @@ input{
 .quadrado{
 	width: 400px;
 	margin: 0 auto;
-	border:1px solid blue;
 }
 #formulario{
-	border:1px solid red;
 	text-align: center;
 	padding: 20px;
 	margin-top: 20px;
